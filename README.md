@@ -3,6 +3,19 @@
 
 A high level implementation of the Janus Protocol on Hedera using Chainlink Oracles
 
+Key Benefits of Janus on Hedera
+
+    AI-Driven Economic Stability
+    Multi-Asset Collateralization
+    Tokenized RWAs (Gold)
+    DeFi-Enabled Vaults for Liquidity
+    NFT-Based Gold Ownership with Auctions
+    Decentralized Hedera Marketplace for Trading
+    Automated Bidding & Secure Settlement System
+
+
+Features:
+
 1. Janus Stablecoin 3.0 on Hedera
 Janus Alpha (JAN-A) & Omega (JAN-O) Stablecoins
 
@@ -105,16 +118,6 @@ Automatic NFT Settlement for Winning Bidders
     Seller receives funds instantly.
 
 
-
-Key Benefits of Janus on Hedera
-
-AI-Driven Economic Stability
-Multi-Asset Collateralization
-Tokenized RWAs (Gold)
-DeFi-Enabled Vaults for Liquidity
-NFT-Based Gold Ownership with Auctions
-Decentralized Hedera Marketplace for Trading
-Automated Bidding & Secure Settlement System
 
 Deployment on Hedera Testnet
 
